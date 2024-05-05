@@ -45,7 +45,18 @@ Requirements for compiling are:
 Feel free to create issues for missing features, bug reports, or compile problems or contact us via [email](mailto:openspace@amnh.org?subject=OpenSpace:).  Regarding any issues, you are very welcome on our [Slack support channel](https://openspacesupport.slack.com) to which you can freely [sign-up](https://join.slack.com/t/openspacesupport/shared_invite/zt-24uhn3wvo-gCGHgjg2m9tHzKUEb_FyMQ).
 
 ![Image](https://docs.openspaceproject.com/en/latest/_static/images/himalaya-nkpg-dome.jpg)
+# Contributors to OpenSpace
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
+A detailed overview on how to contribute can be found in the [contributing guide](https://docs.openspaceproject.com/en/latest/dev/compiling/index.html).
+
+If you are simply looking to start working with the OpenSpace codebase, navigate to the GitHub "issues" tab and start looking through interesting issues. There are a number of issues listed [good first issue](https://github.com/OpenSpace/OpenSpace/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) where you could start out.
+
+Or maybe through using OpenSpace you have an idea of your own or are looking for something in the documentation and thinking ‘this can be improved’...you can do something about it! Here's is our guide for a [feature request.](https://github.com/OpenSpace/OpenSpace/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
+
+Feel free to ask questions on opur [Slack support channel](https://openspacesupport.slack.com). 
+
+As contributors and maintainers to this project, you are expected to abide by OpenSpace's code of conduct. More information can be found at: [Contributor Code of Conduct](https://github.com/OpenSpace/OpenSpace/blob/master/CODE_OF_CONDUCT.md)
 # License
 The contents of this repository provided under an [MIT license](https://github.com/OpenSpace/OpenSpace/blob/master/LICENSE.md).
 
